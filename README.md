@@ -1,0 +1,1 @@
+Ce projet consiste à implémenter un allocateur mémoire lancé en remplacement de l'allocateur système pour tout type d'application. Dans le fichier source library.c se trouve l'implémentation des fonctions d'allocateur mémoire. Un makefile est fourni pour compiler le projet. Il suffit donc de lancer make pour créer les fichiers éxécutables.
